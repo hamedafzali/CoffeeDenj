@@ -1,0 +1,11 @@
+{
+    "menuContent": [
+      { "label": "گواهینامه", "page": "Page1", "color": "red" },
+      { "label": "شهروندی", "page": "Page2", "color": "green" },
+      { "label": "صفحه ۳", "page": "Page3", "color": "blue" },
+      { "label": "صفحه ۴", "page": "Page4", "color": "orange" },
+      { "label": "صفحه ۵", "page": "Page5", "color": "purple" },
+      { "label": "صفحه ۶", "page": "Page6", "color": "pink" }
+    ]
+  }
+  

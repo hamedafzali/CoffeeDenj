@@ -1,0 +1,15 @@
+{
+  "menuContent": [
+    { "label": "Leben in doutschland", "page": "Page2", "color": "purple", "image": "PR" },
+    { "label": "Driving License", "page": "Page1", "color": "orange", "image": "DL" },
+    { "label": "Live TV", "page": "LiveStream", "color": "purple", "image": "TV" },
+    { "label": "Work Visa", "page": "Page2", "color": "purple", "image": "" },
+    { "label": "Tourist Visa", "page": "Page1", "color": "orange", "image": "" },
+    { "label": "Permanent Residency", "page": "Page2", "color": "teal", "image": "" },
+    { "label": "Student Visa", "page": "Page1", "color": "pink", "image": "" },
+    { "label": "Business Visa", "page": "Page2", "color": "brown", "image": "" },
+    { "label": "Family Reunion Visa", "page": "Page1", "color": "cyan", "image": "" },
+    { "label": "Diplomatic Visa", "page": "Page2", "color": "magenta", "image": "" },
+    { "label": "Transit Visa", "page": "Page1", "color": "lime", "image": "" }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+    "menuContent": [
+      { "label": "Führerschein", "page": "Seite1", "color": "red" },
+      { "label": "Daueraufenthalt", "page": "Seite2", "color": "green" },
+      { "label": "Seite 3", "page": "Seite3", "color": "blue" },
+      { "label": "Seite 4", "page": "Seite4", "color": "orange" },
+      { "label": "Seite 5", "page": "Seite5", "color": "purple" },
+      { "label": "Seite 6", "page": "Seite6", "color": "pink" }
+    ]
+  }
+  
